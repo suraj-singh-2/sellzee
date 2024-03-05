@@ -1,0 +1,510 @@
+@media screen and (max-width: 1700px) {
+    .Inspiration-technology-image img {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 1600px) {
+    .complex-connections-img {
+        right: 148px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .complex-connections-img img {
+        width: 100%;
+    }
+
+    .complex-connections-img {
+        right: 80px;
+    }
+
+    .complex-connections-img img {
+        width: 90%;
+    }
+
+
+}
+
+@media screen and (max-width: 1200px) {
+
+    #Inspiration-technology {
+        padding-bottom: 40px;
+    }
+
+    .menu ul li {
+        padding-left: 15px;
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+    }
+
+    .button a {
+        font-size: 18px;
+        padding: 12px 20px;
+    }
+
+    h6 {
+        font-size: 17px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+
+    .Inspiration-technology-text h2 span {
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    .main-banner-inmage img {
+        width: 100%;
+    }
+
+    .banner-extra-section {
+        left: 349px;
+    }
+
+    .user-review-heading-left h5 {
+        text-align: center;
+    }
+
+    .rating-star {
+        padding: 30px 5px 0 0;
+    }
+
+    .rating-star ul li {
+        padding-right: 2px;
+    }
+
+    #footer {
+
+        padding: 110px 0 97px 0;
+    }
+
+    #footer::before {
+        z-index: 0;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+
+    .courier-company-main img {
+        max-width: 100%;
+    }
+    header .button a {
+        font-size: 15px;
+        padding: 10px 10px;
+    }
+
+    .toggale i {
+        display: block;
+        padding-left: 20px;
+    }
+
+    .toggale {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+    }
+
+    .Inspiration-technology-image {
+        padding-top: 148.5px;
+    }
+
+
+
+    .complex-connections-text h2 {
+        font-size: 25px;
+    }
+
+    .complex-connections-text p {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 13px;
+    }
+
+    .complex-connections-img {
+        right: 0;
+    }
+
+    .simple-text {
+        right: 43px;
+    }
+
+    #counter {
+        padding: 80px 0 80px 0;
+    }
+
+    .counter-mains {
+        gap: 30px;
+    }
+
+    .counter-main {
+        width: calc(50% - 15px);
+    }
+
+    .committed-main {
+        gap: 30px;
+    }
+
+    .cards {
+        width: calc(50% - 15px);
+    }
+
+    .davit-miller {
+        margin-top: 8px;
+    }
+
+    .next-prevew {
+        padding-top: 240px;
+        padding-left: 158px;
+    }
+
+    .user-review-heading-left h5 {
+        font-size: 23px;
+    }
+
+    .user-review-heading-left p {
+        padding: 18px 24px 30px 30px;
+    }
+
+    .davit-miller-peragraph p {
+        font-size: 16px;
+    }
+
+    .davit-miller-peragraph p br {
+        display: none;
+    }
+
+    .banner-extra-section img {
+        width: 90%;
+    }
+
+    .banner-extra-section {
+        left: 82%;
+        transform: translate(-50%, -50%);
+        top: 6%;
+    }
+
+    .shortlinks {
+        padding-top: 40px;
+    }
+
+    .monthly-right {
+        width: 100%;
+        max-width: 340px;
+    }
+
+    .insatll-btn a {
+        max-width: 292px;
+    }
+
+    .menu {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 100%;
+        background: #336499;
+
+    }
+
+    ul.nav-menu.d-flex {
+        flex-direction: column;
+    }
+
+    .show .toggale i:before {
+        content: "\f00d";
+    }
+
+    .show .menu {
+        display: block !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .Inspiration-technology-text {
+        text-align: center;
+    }
+
+    .Inspiration-technology-text h2 {
+        max-width: unset;
+    }
+
+    .Inspiration-technology-text h2 br {
+        display: none;
+    }
+
+    .Inspiration-technology-image {
+        padding-top: 73.5px;
+        padding-bottom: 20px;
+    }
+
+    #counter {
+        padding: 40px 0 40px 0;
+    }
+
+    .content-block {
+        top: 115%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+    }
+
+    .complex-connections-text h5 {
+        padding-top: 66%;
+    }
+
+    .simple-text {
+        max-width: unset;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        top: 147%;
+    }
+
+    .complex-connections-img {
+        position: static;
+    }
+
+    .complex-connections-img img {
+        width: 100%;
+    }
+
+    #committed .text {
+        padding: 16px 12px 17px 15px;
+    }
+
+    .text img {
+        max-width: 55px;
+        height: 40px;
+    }
+
+    .user-review-heading-left {
+        width: 100%;
+    }
+
+    .next-prevew {
+        padding-top: 214px;
+        padding-bottom: 26px;
+        padding-left: 222px;
+    }
+
+    .user-review-heading-right {
+        width: 100%;
+    }
+
+    .monthly {
+        flex-wrap: wrap;
+    }
+
+    .monthly-right {
+        /* width: 100%; */
+    }
+
+    #news-letter {
+        margin-top: 120px;
+    }
+
+    .input-news-letter {
+        max-width: 372px;
+    }
+
+    .news-letter-heding {
+        height: 338px;
+    }
+
+    .news-letter-heding::before {
+        height: 338px;
+    }
+
+    /* .input-news-letter input {
+        width: 42%;
+    } */
+    .input-news-letter span a {
+        padding: 14px 17px;
+        font-size: 16px;
+    }
+
+    #footer {
+        padding: 41px 0 27px 0;
+        margin-top: 50px;
+    }
+
+    .news-letter-heding h5 {
+        padding: 35px 0 20px 0;
+    }
+
+    .news-letter-heding h2 {
+        font-size: 25px;
+    }
+
+    .help-link {
+        padding-top: 40px;
+    }
+
+    .slider-arrow {
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .main-banner-inmage img {
+        position: relative;
+        width: 100%;
+        top: 238px;
+        padding-bottom: 280px;
+    }
+
+    #footer {
+        text-align: center;
+    }
+
+    #footer::before {
+        height: 127px;
+    }
+
+    ul.socal-media.d-flex {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .footer-heading {
+        padding-top: 53px;
+    }
+
+    .user-review-heading-right {
+        left: 0;
+
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    h2 {
+        font-size: 36px;
+    }
+
+    header .button a {
+        display: none;
+    }
+
+    .header {
+        padding: 26px 0 0 0;
+    }
+
+    .counter-main {
+        padding: 40px;
+    }
+
+    .committed-main {
+        gap: 15px;
+    }
+
+    #committed {
+        padding-top: 26px;
+        padding-bottom: 26px;
+    }
+
+    .content-block {
+        top: 119%;
+        left: 30%;
+    }
+
+    .courier-company-main {
+        padding: 41px 0 68px 0;
+    }
+
+    .complex-connections-text h5 {
+        padding-top: 100%;
+    }
+
+    .simple-text {
+        top: 167%;
+    }
+
+    .transfer-button a {
+        padding: 11.21px 11.31px 11.31px 8.28px;
+    }
+
+    .simple-text input {
+        width: 150px;
+    }
+
+    .counter-main {
+        width: 100%;
+    }
+
+    .cards {
+        width: 100%;
+    }
+
+    #committed .text {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    .nav-tabs {
+        column-gap: 21px;
+    }
+
+
+    section#complex-connections {
+        padding-bottom: 40px;
+    }
+
+    .news-letter-heding h2 br {
+        display: none;
+
+    }
+
+    .news-letter-heding h2 {
+        font-size: 28px;
+    }
+
+    .Inspiration-technology-text {
+        padding-top: 10px;
+    }
+
+    .high-anylisis h6 {
+        font-size: 12px;
+    }
+
+    .Inspiration-technology-text h2 span {
+        font-size: 35px;
+    }
+
+    .Inspiration-technology-text h2 {
+        font-size: 25px;
+    }
+
+    .Inspiration-technology-text h2 br {
+        display: block;
+    }
+    .news-letter-heding h2 br {
+        display: block;
+    }
+    .news-letter-heding h2 {
+        font-size: 20px;
+    }
+    .heading-with-outextra h2{
+        font-size: 22px;
+    }
+    .user-review-heading p br{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 360px) {}
